@@ -1,3 +1,4 @@
+![iOS Design Patterns](design-patterns.png)
 # iOS Design Patterns Repository
 
 Welcome to the iOS Design Patterns repository. This repository aims to provide a comprehensive collection of design patterns commonly used in iOS development.
