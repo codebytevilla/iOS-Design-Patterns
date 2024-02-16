@@ -6,14 +6,14 @@ This repository provides explanations and Swift implementations for common creat
 
 ### [Singleton Pattern](./01-Singleton)
 
-#### Overview:
-    Ensures a class has only one instance and provides a global point of access to it.
+####    Overview:
+Ensures a class has only one instance and provides a global point of access to it.
 
 #### When to Use:
-    When exactly one object is needed to coordinate actions across the system.
+When exactly one object is needed to coordinate actions across the system.
 
 #### Example:
-    Check out the [Singleton Pattern Example](./01-Singleton/README.md) for Swift implementation and usage scenarios.
+Check out the [Singleton Pattern Example](./01-Singleton/README.md) for Swift implementation and usage scenarios.
 
 ### [Prototype Pattern](./02-Prototype)
 - Creates new objects by copying an existing object, known as the prototype.
