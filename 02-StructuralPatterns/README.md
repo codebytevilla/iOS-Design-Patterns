@@ -1,3 +1,4 @@
+![iOS Structural Design Patterns](Structural.jpeg)
 # Structural Design Patterns in iOS Swift
 
 Welcome to the Structural Design Patterns section of the iOS Design Patterns repository. Here, we explore various patterns that focus on organizing and managing the relationships between classes and objects in iOS Swift development.

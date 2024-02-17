@@ -1,3 +1,4 @@
+![iOS Behavioral Design Patterns](Behavioral.jpeg)
 # iOS Behavioral Design Patterns
 
 This repository provides an overview and implementation examples of various behavioral design patterns commonly used in iOS Swift development. Each pattern addresses specific challenges related to object collaboration and communication.
