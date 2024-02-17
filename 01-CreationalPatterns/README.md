@@ -1,3 +1,4 @@
+![iOS Creational Design Patterns](design-patterns.png)
 # iOS Creational Design Patterns
 
 This repository provides explanations and Swift implementations for common creational design patterns in iOS development.
