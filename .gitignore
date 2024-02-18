@@ -1,3 +1,6 @@
 
 .DS_Store
 01-CreationalPatterns/.DS_Store
+*.xcplayground
+*.xcworkspacedata
+*.xcuserstate
