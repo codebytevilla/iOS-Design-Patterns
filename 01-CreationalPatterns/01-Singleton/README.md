@@ -24,19 +24,19 @@ The Singleton design pattern in Swift ensures a class has only one instance and 
 
 ## Practical Examples
 
-Explore real-world examples of using the Singleton pattern in Swift for managing app configuration and network operations in the [Practical Examples](./PracticalExamples.md) section.
+Explore real-world examples of using the Singleton pattern in Swift for managing app configuration and network operations in the [Practical Examples](./Examples/PracticalExamples.md) section.
 
 ## Pros and Cons
 
-Understand the advantages and disadvantages of utilizing the Singleton pattern in Swift, including when it's suitable and potential pitfalls in the [Pros and Cons](./ProsAndCons.md) section.
+Understand the advantages and disadvantages of utilizing the Singleton pattern in Swift, including when it's suitable and potential pitfalls in the [Pros and Cons](./Resources/ProsAndCons.md) section.
 
 ## Usage Examples
 
-Learn how to use the Singleton pattern effectively in Swift with usage examples and best practices in the [Usage Examples](./UsageExamples.md) section.
+Learn how to use the Singleton pattern effectively in Swift with usage examples and best practices in the [Usage Examples](./Examples/PracticalExamples.md) section.
 
 ## Contributing
 
-Contributions are welcome! Please read the [Contributing Guidelines](../../CONTRIBUTING.md) for details.
+Contributions are welcome. Please read the [Contributing Guidelines](../../CONTRIBUTING.md) for details.
 
 ## License
 
