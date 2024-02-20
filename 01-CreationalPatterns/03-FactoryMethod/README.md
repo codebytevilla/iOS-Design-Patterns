@@ -15,7 +15,6 @@ This repository demonstrates the implementation and usage of the Factory Method 
   - [Practical Examples](#practical-examples)
   - [Pros and Cons](#pros-and-cons)
   - [Usage Examples](#usage-examples)
-  - [Installation](#installation)
   - [Contributing](#contributing)
   - [License](#license)
 
